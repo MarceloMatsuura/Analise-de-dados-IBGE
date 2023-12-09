@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Análise do PIB
 
 Este projeto tem como objetivo fazer uma breve análise da evolução do PIB do Brasil e dos seus setores
@@ -10,3 +11,6 @@ As variáveis analisadas são:
 6563 - Taxa acumulada ao longo do ano (em relação ao mesmo período do ano anterior)
 6564 - Taxa trimestre contra trimestre imediatamente anterior
 
+=======
+# GDP
+>>>>>>> af4d0a5561bc9182f112ce8138a2e6c65efb1a15
